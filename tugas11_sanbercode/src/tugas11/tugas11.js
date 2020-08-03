@@ -19,7 +19,7 @@ class DaftarHargaBuah extends React.Component{
                         margin: auto;
                         border: 1px solid black;
                         width: 700px;
-                        height: 150px;
+                        height: 0px;
                     }
                     th {
                         background-color: #aaaaaa;
@@ -27,7 +27,9 @@ class DaftarHargaBuah extends React.Component{
                     td {
                         background-color:#ff7f50;
                     }
-                    h1{text-align:center;}`}
+                    h1 {
+                        text-align:center;
+                    }`}
                 </style>
 
                 <h1>Tabel Harga Buah</h1>
